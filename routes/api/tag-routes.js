@@ -1,4 +1,3 @@
-// DEPENDENCIES
 const router = require('express').Router();
 const { Tag, Product, ProductTag } = require('../../models');
 // TAG ENDPOINTS (i.e., `/api/tags`)

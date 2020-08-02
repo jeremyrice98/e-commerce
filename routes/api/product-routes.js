@@ -1,4 +1,4 @@
-cconst router = require('express').Router();
+const router = require('express').Router();
 const { Product, Category, Tag, ProductTag } = require('../../models');
 // PRODUCT ENDPOINTS (i.e., `/api/products`)
 // GET ALL PRODUCTS
