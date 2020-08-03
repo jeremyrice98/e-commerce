@@ -16,8 +16,9 @@
 * [QUESTIONS](#QUESTIONS)  
   
 ## **APPLICATION LINKS**   
-> [Live Application](https://github.com/jeremyrice98/e-commerce)  
+> [Live Application](https://jeremyrice98.github.io/e-commerce/)  
 > [GitHub Repository](https://github.com/jeremyrice98/e-commerce)  
+> [Video Walkthrough](https://drive.google.com/file/d/1zeTnquV4xBBucWY2_f-zbXuZ9xFIqFub/view) 
   
 ## **INSTALLATION**   
 > Prior to being able to use this application, you must complete the following:  
